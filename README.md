@@ -44,7 +44,7 @@ Cryptocurrency Portfolio Management with Deep Reinforcement Learning (2017) http
 
 Deep learning for financial sentiment analysis on finance news providers http://ieeexplore.ieee.org/document/7752381/
 
-
+Using Natural Language Processing Techniques for Stock Return Predictions(2017) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940564
 
 ## Other Machine Learning techniques
 
